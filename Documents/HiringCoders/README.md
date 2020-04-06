@@ -1,0 +1,1 @@
+Muito boa a dinâmica das aulas, bem intuitivas e de fácil entendimento. Estou reforçando alguns conceitos de git que não estava muito seguro antes.
